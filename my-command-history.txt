@@ -1,0 +1,78 @@
+    1  mkdir cit173_lab2
+    2  cd cit173_lab2
+    3  shell
+    4  type shell
+    5  type bash
+    6  echo $path
+    7  man echo
+    8  echo
+    9  echo -bash
+   10  echo
+   11  echo $shell
+   12  echo $SHELL
+   13  echo $0
+   14  type =bash
+   15  type
+   16  type bash
+   17  git clone https://github.com/RenoTechnologyAcademy/CIT173_lab2_Files.git
+   18  cat ~/CIT173_Lab2_Files/phonebook1.txt/ ~/CIT173_Lab2_Files/phonebook2.txt/ > ~/CIT173_Lab2/my-phonebook.txt
+   19  cd ~/
+   20  cat ~/CIT173_Lab2_Files/phonebook1.txt/ ~/CIT173_Lab2_Files/phonebook2.txt/ > ~/CIT173_Lab2/my-phonebook.txt
+   21  man cat
+   22  cat phonebook1.txt phonebook2.txt > my-phonebook.txt
+   23  cd CIT173_Lab2
+   24  cd cit173_lab2
+   25  cat phonebook1.txt phonebook2.txt > my-phonebook.txt
+   26  git clone https://github.com/RenoTechnologyAcademy/CIT173_lab2_Files.git
+   27  cd cit173_lab2_files
+   28  ls 
+   29  rm-rf cit173_lab2_files
+   30  rm -r cit173_lab2
+   31  cd ~/
+   32  rm -r cit173_lab2
+   33  ls -l cit173_lab2
+   34  ls cit173_lab2
+   35  ls ~/cit173_lab2/my-phonebook.txt
+   36  rm -rf cit173_lab2
+   37  mkdir cit173_lab2
+   38  cd cit173_lab2
+   39  git clone https://github.com/RenoTechnologyAcademy/CIT173_lab2_Files.git
+   40  ls cit173_lab2
+   41  ls ~/cit173_lab2/
+   42  cd ~/cit173_lab2/cit173_lab2_files/
+   43  ls ~/cit173_lab2_files/
+   44  cd ~/
+   45  git clone https://github.com/RenoTechnologyAcademy/CIT173_lab2_Files.git
+   46  cat ~/CIT173_Lab2_Files/phonebook1.txt /CIT173_Lab2_Files/phonebook2.txt > ~/cit173_lab2/my-phonebook.txt
+   47  rm-rf CIT173_Lab2
+   48  rm -rf CIT173_Lab2
+   49  clear
+   50  mkdir cit173_lab2
+   51  rm -rf cit173_lab2
+   52  clear
+   53  mkdir cit173_lab2
+   54  echo $SHELL
+   55  echo $0
+   56  type bash
+   57  cd ~/
+   58  git clone https://github.com/RenoTechnologyAcademy/CIT173_lab2_Files.git
+   59  rm -rf CIT173_Lab2_Files
+   60  git clone https://github.com/RenoTechnologyAcademy/CIT173_lab2_Files.git
+   61  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.git
+   62  cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+   63  pwd
+   64  ls -l
+   65  ls -l CIT173_Lab2_Files/
+   66  cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/cit173_lab2/my-phonebook.txt
+   67  wc ~/cit173_lab2/my-phonebook.txt 
+   68  cat ~/cit173_lab2/my-phonebook.txt | less
+   69  cat ~/CIT173_Lab2_Files/phonelisting1.txt ~/CIT173_Lab2_Files/phonelisting2.txt > ~/cit173_lab2/my-phonelisting.txt
+   70  tac ~/cit173_lab2/my-phonebook.txt > ~/cit173_lab2/my-phonebook-reverse.txt
+   71  join ~/cit173_lab2/my-phonebook.txt > ~/cit173_lab2/my-phonelisting.txt > ~/cit173_lab2/my-joined-phonebook.txt
+   72  join ~/cit173_lab2/my-phonebook.txt ~/cit173_lab2/my-phonelisting.txt > ~/cit173_lab2/my-joined-phonebook.txt
+   73  unexpand ~/cit173_lab2/my-phonebook.txt > ~/cit173_lab2/my-tabbed-phonebook.txt
+   74  sort ~/cit173_lab2/my-phonebook.txt > ~/cit173_lab2/my-sorted-phonebook.txt
+   75  nl ~/cit173_lab2/my-phonebook.txt > ~/cit173_lab2/my-numbered-phonebook.txt
+   76  head ~/cit173_lab2/my-phonebook.txt > ~/cit173_lab2/my-head-phonebook.txt
+   77  tail ~/cit173_lab2/my-phonebook.txt > ~/cit173_lab2/my-tail-phonebook.txt
+   78  history > ~/cit173_lab2/my-command-history.txt
